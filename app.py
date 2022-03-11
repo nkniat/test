@@ -1,1 +1,1 @@
-print('Liczę do 1')
+print('Liczę do 2')
